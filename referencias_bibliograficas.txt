@@ -1,0 +1,25 @@
+Cao, Feng, Yulong Song, e Mingjia Li. 2019. “Review on development of air source transcritical CO2 heat pump systems using direct-heated type and recirculating-heated type”. International Journal of Refrigeration 104:455–75. doi:10.1016/j.ijrefrig.2018.12.023.
+
+Chen, Ying, e Junjie Gu. 2005. “The Optimum High Pressure for CO2 Transcritical Refrigeration Systems with Internal Heat Exchangers”. International Journal of Refrigeration 28(8):1238–49. doi:10.1016/j.ijrefrig.2005.08.009.
+
+Climate Reanalyzer. 2024. “Climate Change Institute. Available from: https://climatereanalyzer.org/wx/todays-weather/?var_id=t2&ortho=1&wt=2”.
+
+Deng, Sensen, Dong Wang, Yuehong Lu, e Baomin Dai. 2025. “Novel optimal high pressure determination method for CO2 air source heat pump water heater: Experimental study and methodology development”. Applied Thermal Engineering 258(PA):124564. doi:10.1016/j.applthermaleng.2024.124564.
+
+Guruchethan, A. M., Y. Siva Kumar Reddy, M. P. Maiya, e Armin Hafner. 2023. “Performance evaluation of absorption cooling assisted transcritical CO2 refrigeration systems”. International Journal of Refrigeration 155(September):362–74. doi:10.1016/j.ijrefrig.2023.09.012.
+
+Intergovernmental Panel on Climate Change (IPCC). 2007. Climate Change 2007: The Physical Science Basis – Summary for Policymakers. Contribution of Working Group I to the Fourth Assessment Report. Geneva, Switzerland: World Meteorological Organization (WMO) and United Nations Environment Programme (UNEP), IPCC Secretariat.
+
+Lorentzen, Gustav. 1994. “Revival of carbon dioxide as a refrigerant”. H and V Engineer 66(721):9–14.
+
+Lykas, Panagiotis, Nikolaos Georgousis, Evangelos Bellos, e Christos Tzivanidis. 2022. “Investigation and optimization of a CO2-based polygeneration unit for supermarkets”. Applied Energy 311(February):118717. doi:10.1016/j.apenergy.2022.118717.
+
+Martins, Erick, Guilherme Ramiro, e Antônio Maia. 2024. “Desenvolvimento de um mecanismo de expansão eletrônico para um sistema de refrigeração de pequeno porte operando com CO2 em um ciclo transcrítico.” 2:1–10. doi:10.26678/abcm.conem2024.con24-1126.
+
+Oruç, Vedat, Atilla G. Devecioğlu, e Derviş B. İlhan. 2024. “Retrofit of an internal heat exchanger in a R404A refrigeration system using R452A: Experimental assessment on the energy efficiency and CO2 emissions”. Next Energy 3(January):100107. doi:10.1016/j.nxener.2024.100107.
+
+Song, Yulong, Ce Cui, Xiang Yin, e Feng Cao. 2022. “Advanced development and application of transcritical CO2 refrigeration and heat pump technology—A review”. Energy Reports 8:7840–69. doi:10.1016/j.egyr.2022.05.233.
+
+United Nations (UN). 1997. Kyoto Protocol to the United Nations Framework Convention On Climate Change. New York, NY, USA: United Nations.
+
+Yadav, Saurabh, Jie Liu, e Sung Chul Kim. 2022. “A comprehensive study on 21st-century refrigerants - R290 and R1234yf: A review”. International Journal of Heat and Mass Transfer 182:121947. doi:10.1016/j.ijheatmasstransfer.2021.121947.
